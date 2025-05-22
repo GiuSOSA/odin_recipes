@@ -13,3 +13,7 @@ p {
 .micro {
     color: darkcyan;
 }
+
+img {
+    border-radius: 10px;
+}

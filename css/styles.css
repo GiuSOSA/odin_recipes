@@ -1,0 +1,15 @@
+p {
+    color: rgb(179, 0, 0);
+}
+
+#title {
+    color: orange;
+}
+
+#title2{
+    color: darkblue;
+}
+
+.micro {
+    color: darkcyan;
+}
